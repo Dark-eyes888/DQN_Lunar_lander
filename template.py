@@ -3,8 +3,6 @@ import os
 dirs=[
     os.path.join('action_critic','A2C'),
     os.path.join('action_critic','A3C'),
-    'custom_environment',
-    'Q_learning',
     'Deep_q_learning',
     'DDPG',
 
