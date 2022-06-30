@@ -14,7 +14,7 @@ for dirs_ in dirs:
         pass
 
 files=[
-    'READ.MD',
+    'README.md',
     'requirement.txt',
     '.gitignore',
 ]
