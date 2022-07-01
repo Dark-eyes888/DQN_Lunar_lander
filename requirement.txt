@@ -1,4 +1,7 @@
-os
-pandas
-numpy
+keras
+pandas 
+numpy 
 matplotlib
+tensorflow
+utils
+gym
